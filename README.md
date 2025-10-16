@@ -16,7 +16,7 @@ You can explore my projects, experience, and skills in more detail on my persona
 
 ---
 
-### 🔧 My Tech Stack (with classy colors!)
+### 🔧 My Tech Stack
 
 Here are some of the key technologies I work with daily:
 

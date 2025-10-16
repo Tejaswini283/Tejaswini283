@@ -31,7 +31,7 @@ Here are some of the key technologies I work with daily:
 
 ---
 
-### 📫 Get In Touch (with cute colors!)
+### 📫 Get In Touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tejaswini-parlapalli/" target="_blank">

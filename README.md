@@ -42,13 +42,26 @@ You can explore my projects, experience, and skills in more detail on my persona
 
 ---
 
+<!-- Socials: cute, evenly spaced badges -->
 ## Socials
 
 <p align="left">
-  <a href="https://github.com/tejaswini283" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <a href="mailto:parlapallitejaswini283@gmail.com" target="_blank" rel="noopener">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:10px;margin-right:10px" height="36"/>
   </a>
-  <a href="https://www.linkedin.com/in/tejaswini-parlapalli/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+
+  <a href="https://github.com/tejaswini283" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius:10px;margin-right:10px" height="36"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/tejaswini-parlapalli/" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:10px;margin-right:10px" height="36"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Tejaswini_283/" target="_blank" rel="noopener">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="border-radius:10px;margin-right:10px" height="36"/>
+  </a>
+</p>
+
   </a>
 </p>

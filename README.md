@@ -40,10 +40,10 @@ You can explore my projects, experience, and skills in more detail on my persona
 
 <p align="left">
   <a href="mailto:parlapallitejaswini283@gmail.com" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="36" height="36" style="margin-right:15px;" />
+    <img src="https://icons8.com/icons/set/gmail--white" alt="Gmail" width="36" height="36" style="margin-right:15px;" />
   </a>
   <a href="https://github.com/tejaswini283" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36" style="margin-right:15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github.svg" alt="GitHub" width="36" height="36" style="margin-right:15px;" />
   </a>
   <a href="https://www.linkedin.com/in/tejaswini-parlapalli/" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" style="margin-right:15px;" />

@@ -43,13 +43,13 @@ You can explore my projects, experience, and skills in more detail on my persona
     <img src="https://github.com/Tejaswini283/Tejaswini283/blob/main/icons8-gmail-50.png" alt="Gmail" width="36" height="36" style="margin-right:15px;" />
   </a>
   <a href="https://github.com/tejaswini283" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github.svg" alt="GitHub" width="36" height="36" style="margin-right:15px;" />
+    <img src="https://github.com/Tejaswini283/Tejaswini283/blob/main/icons8-github-64.png" alt="GitHub" width="36" height="36" style="margin-right:15px;" />
   </a>
   <a href="https://www.linkedin.com/in/tejaswini-parlapalli/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" style="margin-right:15px;" />
+    <img src="https://github.com/Tejaswini283/Tejaswini283/blob/main/icons8-linkedin-50.png" alt="LinkedIn" width="36" height="36" style="margin-right:15px;" />
   </a>
   <a href="https://leetcode.com/u/Tejaswini_283/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="36" height="36" style="margin-right:15px; filter: invert(100%);" />
+    <img src="https://github.com/Tejaswini283/Tejaswini283/blob/main/icons8-leetcode-50.png" alt="LeetCode" width="36" height="36" style="margin-right:15px; filter: invert(100%);" />
   </a>
 </p>
 

@@ -52,11 +52,3 @@ You can explore my projects, experience, and skills in more detail on my persona
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
-  <a href="https://leetcode.com/u/Tejaswini_283/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&colorA=F0F0F0&colorB=FAD1AA" alt="LeetCode">
-  </a>
-  <a href="mailto:parlapallitejaswini283@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=F0F0F0&colorB=F7B7B8" alt="Gmail">
-  </a>
-</p>

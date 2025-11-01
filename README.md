@@ -49,7 +49,7 @@ You can explore my projects, experience, and skills in more detail on my persona
     <img src="https://github.com/Tejaswini283/Tejaswini283/blob/main/icons8-linkedin-50.png" alt="LinkedIn" width="36" height="36" style="margin-right:15px;" />
   </a>
   <a href="https://leetcode.com/u/Tejaswini_283/" target="_blank" rel="noopener">
-    <img src="https://github.com/Tejaswini283/Tejaswini283/blob/main/icons8-linkedin-50.png" alt="LeetCode" width="36" height="36" style="margin-right:15px; filter: invert(100%);" />
+    <img src="https://github.com/Tejaswini283/Tejaswini283/blob/main/icons8-leetcode-24.png" alt="LeetCode" width="36" height="36" style="margin-right:15px; filter: invert(100%);" />
   </a>
 </p>
 

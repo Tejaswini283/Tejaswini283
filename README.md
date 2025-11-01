@@ -40,7 +40,7 @@ You can explore my projects, experience, and skills in more detail on my persona
 
 <p align="left">
   <a href="mailto:parlapallitejaswini283@gmail.com" target="_blank" rel="noopener">
-    <img src="https://icons8.com/icons/set/gmail--white" alt="Gmail" width="36" height="36" style="margin-right:15px;" />
+    <img src="https://github.com/Tejaswini283/Tejaswini283/blob/main/icons8-gmail-50.png" alt="Gmail" width="36" height="36" style="margin-right:15px;" />
   </a>
   <a href="https://github.com/tejaswini283" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github.svg" alt="GitHub" width="36" height="36" style="margin-right:15px;" />

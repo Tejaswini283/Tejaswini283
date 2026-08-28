@@ -1,6 +1,6 @@
 ### Hi there, I'm Tejaswini! 👋
 
-I'm a Senior Data Scientist at **Rivian** with 6 years of experience transforming complex data into clear, actionable insights. I specialize in the end-to-end development and deployment of machine learning models, from predictive analytics to reinforcement learning.
+I'm a Senior  at **Rivian** with 6 years of experience transforming complex data into clear, actionable insights. I specialize in the end-to-end development and deployment of machine learning models, from predictive analytics to reinforcement learning.
 
 - I’m currently focused on leveraging AI to solve challenges in the EV and supply chain space.
 - Am also working on the entire ML lifecycle projects, from data engineering and EDA to model deployment and MLOps.
